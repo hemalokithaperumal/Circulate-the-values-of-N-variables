@@ -25,7 +25,8 @@ def circulate():
    print("After circulating the values are:",i)
 
 ## Output:
-![output](circulating-1-1.png)
+![output](circulating-1.png)
 
 
 ## Result:
+completed successfully
