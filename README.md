@@ -21,6 +21,7 @@ print the values it would be interchanged
 end the program
 ## Program:
 # Program to circulate N values.
+```
 Developed by: HEMA LOKITHA P
 RegisterNumber: 23007550
 def circulate():
@@ -28,7 +29,7 @@ def circulate():
    n=int(input())
    i=l[n:]+l[:n]
    print("After circulating the values are:",i)
-
+```
 ## Output:
 
 ![OUTPUT](<Screenshot 2023-12-19 114210.png>)
